@@ -5,7 +5,7 @@
 沒有任何程式設計知識基礎的人。
 
 ## 講師介紹
-Ning Chen，[台北R-Laides](https://rladiestaipei.github.io/R-Ladies-Taipei/) 的創辦人及營運人之一，擅長網站、產業分析及社群經營，相信資料可以讓世界變得不一樣。熱愛資料解讀及分析，2017、2018 連續兩年取得微軟 MVP 殊榮，活耀於機器學習相關研究、社群、競賽活動，並擁有許多 Microsoft Azure Machine Learning 實戰教學經驗。
+Ning Chen，[台北R-Ladies](https://rladiestaipei.github.io/R-Ladies-Taipei/) 的創辦人及營運人之一，擅長網站、產業分析及社群經營，相信資料可以讓世界變得不一樣。熱愛資料解讀及分析，2017、2018 連續兩年取得微軟 MVP 殊榮，活耀於機器學習相關研究、社群、競賽活動，並擁有許多 Microsoft Azure Machine Learning 實戰教學經驗。
 
 ## 課程大綱
 * 電腦視覺辨識基礎介紹
